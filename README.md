@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Adnan k
+# 👋 Hi, I'm MUHAMMAD ADNAN K
 
 🚀 **Full Stack Developer (MERN / Next.js)** | Passionate about building scalable web apps and AI-powered platforms  
 
@@ -16,6 +16,7 @@
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
@@ -23,12 +24,14 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
 **Backend:**  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) &nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) &nbsp;
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 
 **Database & Tools:**  
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) &nbsp;
@@ -66,7 +69,11 @@
   <a href="mailto:adnukunhome7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
