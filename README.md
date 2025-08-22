@@ -37,6 +37,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats  
@@ -53,6 +54,7 @@
 ---
 
 ## 🌟 Highlights  
+
 - 🚀 Developed **NewWay**, a full-stack application built with **Next.js and TypeScript**, leveraging **AI** to generate personalized student roadmaps with secure JWT authentication and backend APIs.  
 - 🎨 Built an **interactive skill roadmap UI** using React, TailwindCSS and Framer Motion, delivering a smooth and engaging user experience.  
 - ☁️ Integrated **Cloudinary** for efficient image storage and management across projects.  
@@ -69,7 +71,7 @@
   <a href="mailto:adnukunhome7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://my-portfolio-end-to-end-with-mern-1.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
