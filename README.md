@@ -71,7 +71,7 @@
   <a href="mailto:adnukunhome7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-end-to-end-with-mern-1.onrender.com" target="_blank">
+  <a href="https://muhammadadnank.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
