@@ -5,11 +5,9 @@
 ---
 
 ## 🔹 About Me  
-- 🎓 Pursuing **BCA at IGNOU**  
-- 💻 Skilled in **MERN stack (MongoDB, Express, React, Node.js)** with modern tools like **Next.js, Typescript, TailwindCSS, Prisma, Docker**  
+- 💻 Skilled in **MERN stack (MongoDB, Express, React, Node.js)** with modern tools like **Next.js, Typescript, TailwindCSS, Prisma**  
 - 🌱 Currently exploring **AI integrations and career-tech solutions**  
 - 📍 Based in Kerala, India  
-- 🎯 Goal: Becoming a professional **Full Stack Developer / Node.js Developer**  
 
 ---
 
@@ -35,7 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
@@ -65,7 +62,7 @@
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-adnan-a479052a1" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-adnan-k-a479052a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adnukunhome7@gmail.com">
